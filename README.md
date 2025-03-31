@@ -36,7 +36,7 @@ This tool uses machine learning (Isolation Forest) to detect anomalies in system
      ```
 4. Install required packages:
    ```bash
-   pip install pandas numpy scikit-learn
+   pip install requirements.txt
    ```
 
 ## Usage
